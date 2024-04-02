@@ -1,0 +1,1 @@
+String newCollection = "New Collection";
